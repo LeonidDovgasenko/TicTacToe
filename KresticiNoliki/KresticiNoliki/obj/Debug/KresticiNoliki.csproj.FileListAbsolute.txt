@@ -1,0 +1,14 @@
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.csproj.AssemblyReference.cache
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.MenuForm1.resources
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.Properties.Resources.resources
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.csproj.GenerateResource.cache
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\bin\Debug\KresticiNoliki.exe.config
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\bin\Debug\KresticiNoliki.exe
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\bin\Debug\KresticiNoliki.pdb
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.exe
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.pdb
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.Game.resources
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.winpage.resources
+C:\Users\Леонид\source\repos\KresticiNoliki\KresticiNoliki\obj\Debug\KresticiNoliki.Top.resources
